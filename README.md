@@ -26,10 +26,5 @@ I am a final-year CS student at **UBIT** with a passion for bridging the gap bet
 
 ---
 
-### 📈 GitHub Stats
-![Sufiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufiyan003&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sufiyan-2a741b311/)
