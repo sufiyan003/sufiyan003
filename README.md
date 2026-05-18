@@ -21,7 +21,7 @@ I am a final-year CS student at **UBIT** with a passion for bridging the gap bet
 
 * ❄️ **Snowflake Certified:** Completed Hands-on Essentials (Badges 1-6)
 * 🎓 **IBM Certified:** Data Engineering & Analysis Professional Certificate
-* 📊 **Professional Experience:** Data Analyst at WebzVision (Sales Automation & Reporting)
+* 📊 **Professional Experience:** Data Analyst at WebzVision (Sales & Reporting)
 * 🏫 **Academic:** Final Year Computer Science Undergraduate @ UBIT '26
 
 ---
