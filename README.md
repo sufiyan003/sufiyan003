@@ -122,6 +122,6 @@ I enjoy working with data across its entire lifecycle — from extraction and tr
 
 **Open to opportunities in Data Analytics, Business Intelligence & Data Engineering.**
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-sufiyan-siddiqui-2a741b311/) • [GitHub](https://github.com/sufiyan003) • [Email](mailto:msufiynn780@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-sufiyan-siddiqui-2a741b311/) • [GitHub](https://github.com/sufiyan003) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=msufiynn780@gmail.com)
 
 </div>
